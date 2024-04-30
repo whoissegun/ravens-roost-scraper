@@ -1,7 +1,7 @@
 Ravens Roost Application Status Notifier
 
 Overview
-This Python script automates the monitoring of the Ravens Roost job application status at Carleton University. It checks the website for changes in the application status and sends an email notification when the status is updated. This script is intended to help potential applicants keep track of the application opening, ensuring they can apply as soon as it becomes available.
+This Python script automates the monitoring of the Ravens Roost job application status at Carleton University. It checks the website for changes in the application status and sends an email notification when the status is updated. This script is intended to help me keep track of the application opening, ensuring I can apply as soon as it becomes available.
 
 Features
 - Automated checks: The script visits the Carleton Ravens Roost application page and checks for updates in the application status.
